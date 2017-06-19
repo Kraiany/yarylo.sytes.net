@@ -1,0 +1,127 @@
+A="01 - Початок - Різдвяна- Боднарук Жанна2c10.mp3"
+for i in "01 - Початок - Різдвяна- Боднарук Жанна7b2b.mp3" "01 - Початок - Різдвяна- Боднарук Жаннаcddb.mp3"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="02 - Сумна пані - Балада про скрипки - анс Черв%D005dd"
+for i in "02 - Сумна пані - Балада про скрипки - анс Черв%D019a9" "02 - Сумна пані - Балада про скрипки - анс Черв%D098e8"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="02 Желтые ботинки3086.mp3"
+for i in "02 Желтые ботинкиd08d.mp3" "02 Желтые ботинкиf6eb.mp3"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="04 - білочка - Наше літо - Тартак12ff.mp3"
+for i in "04 - білочка - Наше літо - Тартак1ce1.mp3" "04 - білочка - Наше літо - Тартак2943.mp3"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="05 - Лисичка - Старий шинок - Мандри7cea.mp3"
+for i in "05 - Лисичка - Старий шинок - Мандри956c.mp3" "05 - Лисичка - Старий шинок - Мандриf2cf.mp3"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="06 - 3  - ангел loop - Ангел божий із небес - Ван Го%D0b701"
+for i in "06 - 3  - ангел loop - Ангел божий із небес - Ван Го%D0c275" "06 - 3  - ангел loop - Ангел божий із небес - Ван Го%D0c6a5"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="06 Кошки0260.mp3"
+for i in "06 Кошки1c40.mp3" "06 Кошкиb7a1.mp3"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="20044964.swf"
+for i in "2004b698.swf" "2004e263.swf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="2nd letter to Embassy30e1.doc"
+for i in "2nd letter to Embassy4b5c.doc" "2nd letter to Embassyf390.doc"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="2nd letter to Embassy99f3.doc"
+for i in "2nd letter to Embassyc738.doc" "2nd letter to Embassycd82.doc"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="2nd_letter_to_Embassy3d08.pdf"
+for i in "2nd_letter_to_Embassy9200.pdf" "2nd_letter_to_Embassyb17f.pdf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="Adachi_2005.07.101340.pdf"
+for i in "Adachi_2005.07.108f92.pdf" "Adachi_2005.07.10cd00.pdf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="Letter_Yushchenko3851.doc"
+for i in "Letter_Yushchenkof72a.doc" "Letter_Yushchenko4080.doc"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="Letter_Yushchenko40a3.pdf"
+for i in "Letter_Yushchenko65e3.pdf" "Letter_Yushchenko917d.pdf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="colors_ukrad79.jpg"
+for i in "colors_ukre136.jpg" "colors_ukre50f.jpg"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="elcin4bf2.swf"
+for i in "elcin6008.swf" "elcinf412.swf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="geometrychni_prykladydc36.doc"
+for i in "geometrychni_prykladye4e8.doc" "geometrychni_prykladye807.doc"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="musor40d2.swf"
+for i in "musorad12.swf" "musorf1d3.swf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="numbers_ukr0dea.jpg"
+for i in "numbers_ukr2c48.jpg" "numbers_ukraf89.jpg"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="osen308b4.swf"
+for i in "osen3bd9a.swf" "osen3d97b.swf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+
+A="pdf-logo1a97.gif"
+for i in "pdf-logob3ce.gif" "pdf-logoff23.gif"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+
+A="podii23-2410CVK-300a9.wmv"
+for i in "podii23-2410CVK-34d29.wmv" "podii23-2410CVK-3e71b.wmv"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="podii23-2410CVK-436d2.wmv"
+for i in "podii23-2410CVK-44067.wmv" "podii23-2410CVK-450b0.wmv"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="podii23-2410CVK-541aa.wmv"
+for i in "podii23-2410CVK-56135.wmv" "podii23-2410CVK-5ef39.wmv"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="podii23-2410cvk-19a29.wmv"
+for i in "podii23-2410cvk-1c846.wmv" "podii23-2410cvk-1c92b.wmv"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+
+A="shapes_ukr6087.jpg"
+for i in "shapes_ukrae24.jpg" "shapes_ukrba24.jpg"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="veselib5fc.swf"
+for i in "veselidad7.swf" "veselie43d.swf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="vyrizannya61a2.doc"
+for i in "vyrizannya7906.doc" "vyrizannyad201.doc"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="zatrymannya_provokatora_bilya_cvk22bd.wmv"
+for i in "zatrymannya_provokatora_bilya_cvk68e6.wmv" "zatrymannya_provokatora_bilya_cvk96cb.wmv"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="Вертеп 2010 сценарій0566.pdf"
+for i in "Вертеп 2010 сценарій130d.pdf" "Вертеп 2010 сценарій5fa2.pdf" "Вертеп 2010 сценарійd48d.pdf" ; do
+rm "$i" ; ln -s "$A" "$i"; done
+
+A="абетка67ef.pdf"
+for i in "абеткаaed6.pdf" "абеткаc3f5.pdf"; do
+rm "$i" ; ln -s "$A" "$i"; done
+
